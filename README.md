@@ -8,6 +8,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ◉PostgreSQL
 ◉ Sql Power Architect
 ◉ Pentaho Data Integrator
+◉Power BI
 
 
 
