@@ -7,6 +7,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ◉ BrModelo
 ◉PostgreSQL
 ◉ Sql Power Architect
+◉ Pentaho Data Integrator
+◉Power BI
 
 
 
